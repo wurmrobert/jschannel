@@ -1,0 +1,23 @@
+{
+  "name": "jschannel",
+  "version": "1.0.0",
+  "description": "JSChannel is a small JavaScript abstraction layer on top of HTML5 cross document messaging.  It builds rich messaging semantics out of postMessage.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurmrobert/jschannel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wurmrobert/jschannel/issues"
+  },
+  "homepage": "https://github.com/wurmrobert/jschannel#readme"
+}
